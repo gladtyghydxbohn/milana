@@ -1,1 +1,52 @@
-milana
+<div class="trainer">
+                    <img src="https://ru.hcbarys.kz/upload/iblock/234/oa6k7bume29cm2bdxm961zugb0qtyf04/Korolyov_E_24_25.png" alt="Евгений Степанович Королев">
+                    <p>Евгений Степанович Королев</p>
+                </div>
+                <div class="trainer">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuFfr6DKI2CmoJh7gAjG72SUIfNAVhAKaZ8w&s" alt="Олег Игоревич Ромашко">
+                    <p>Олег Игоревич Ромашко</p>
+                </div>
+                <div class="trainer">
+                    <img src="https://hvali.by/wp-content/uploads/2016/10/IMG_9161_440.png" alt="Кирилл Константинович Легчаков">
+                    <p>Кирилл Константинович Легчаков</p>
+                </div>
+            </div>
+            <div class="column">
+                <h3>Игроки</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Номер</th>
+                            <th>Игрок</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>НИКИТА БОЯРКИН</td>
+                        </tr>
+                        <tr>
+                            <td>33</td>
+                            <td>ЮХАН МАТТССОН</td>
+                        </tr>
+                        <tr>
+                            <td>43</td>
+                            <td>АНДРЕЙ ШУТОВ</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="fact">
+            <strong>Ближайшая игра:</strong> Сибирь - Барыс 27.11
+        </div>
+        <h2>Социальные сети</h2>
+        <ul>
+            <li><a href="https://www.instagram.com/k.arni55?igsh=MXczZWoyOWEzY3o2Zw==" target="_blank">Перейти в Instagram</a></li>
+            <li><a href="https://www.tiktok.com/@barys_official?_t=8rbvnSPq3Wx&_r=1" target="_blank">Перейти в TikTok</a></li>
+            <li><a href="https://youtube.com/@barystv?si=6Ml1Qyzkj1-d80ce" target="_blank">Перейти в Youtube</a></li>
+        </ul>
+    </div>
+</body>
+</html>
